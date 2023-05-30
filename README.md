@@ -1,6 +1,9 @@
 0x11. C - printf team project
 
-Group Project:   done by Phebe Austin and Ojo Ololade                                                                   
+Group Project:   done by Phebe Austin and Ojo Ololade
+
+THIS PROJECT ENTAILS CREATING A NUMBER OF FILES THAT PRINTS THEIR INPUTS
+DEPENDING ON THE ARGUMENT PASSED TO THEM                                                             
                                                                                     
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
@@ -31,14 +34,9 @@ Handle the following flag characters for non-custom conversion specifiers:
                                                                                     
 8. Sarcasm is lost in print                                                         
 Handle the following length modifiers for non-custom conversion specifiers:         
-                                                                                    
-l                                                                                   
-h                                                                                   
-Conversion specifiers to handle: d, i, u, o, x, X                                   
-                                                                                    
+Conversion specifiers to handle: d, i, u, o, x, X
 9. Print some money and give it to us for the rain forests                          
-Handle the field width for non-custom conversion specifiers.                        
-                                                                                    
+Handle the field width for non-custom conversion specifiers
 10. The negative is the equivalent of the composer's score, and the print the perfor
 mance                                                                               
 Handle the precision for non-custom conversion specifiers.                          
