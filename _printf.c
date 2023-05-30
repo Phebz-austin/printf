@@ -4,10 +4,11 @@ void print_buffer(char buffer[], int *buff_ind);
 
 /**
  * _printf - function prints the arguments passed to it
- * @format: format
- * @i: integer
- * Return: Printed chars.
+ * @format: format in which the arguments are printed
+ * @i: integers
+ * Return: Printed chars
  */
+
 int _printf(const char *format, ...)
 {
 	int i, printed = 0, printed_chars = 0;
@@ -54,9 +55,9 @@ int _printf(const char *format, ...)
 }
 
 /**
- * print_buffer - Prints contents of the buffer if it exist
- * @buffer: Array of characters
- * @buff_ind: Index at which to add next char, represents the length.
+ * print_buffer - Prints contents of an existing buffer
+ * @buffer: an array of characters
+ * @buff_ind: Index at which to add next char, represents the length
  */
 void print_buffer(char buffer[], int *buff_ind)
 {
